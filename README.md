@@ -7,7 +7,6 @@ WeatherApp API Data is a simple web application that allows users to see cities 
 
 - [Demo](#demo)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [API Integration](#api-integration)
 - [Contributing](#contributing)
