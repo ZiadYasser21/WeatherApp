@@ -23,17 +23,6 @@ Check out the live demo of WeatherApp API Data: [Demo Link](https://weather-app-
 - Display weather details including temperature, humidity, wind speed, and more.
 - Geolocation integration for automatic weather detection.
 
-## Installation
-
-1. Clone the repository:
-git clone https://github.com/alhassan73/WeatherApp-API-Data.git
-
-2. Navigate to the project directory:
-cd WeatherApp-API-Data
-
-
-3. Open `index.html` in your preferred web browser.
-
 ## Usage
 
 1. Enter a location in the search bar and click the "Search" button.
